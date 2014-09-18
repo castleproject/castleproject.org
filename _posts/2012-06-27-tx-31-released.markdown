@@ -1,0 +1,10 @@
+---
+layout: post
+title: Castle Tx 3.1 Released
+date: 2012-06-27 00:00:00
+author: hammett
+categories: news
+---
+[Castle Tx 3.1 Released][1]
+
+[1]: https://groups.google.com/forum/?fromgroups#!topic/castle-project-users/CLHTeZRy7qM

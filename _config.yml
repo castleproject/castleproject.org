@@ -1,0 +1,7 @@
+url: http://castleproject.github.io
+title: Castle Project
+description: Castle Project - build your .NET projects on a rock solid foundation
+
+timezone: UTC
+permalink: /blog/:year/:month/:day/:title/
+markdown: kramdown

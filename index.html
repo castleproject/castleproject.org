@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<h2>Welcome to {{ site.title }}</h1>
+<p>This is the home of the Castle Project. Feel free to take a look at our <a href="/projects/">projects</a>.</p>
+
+<h2>Community</h2>
+<p>We welcome all contributions, from ideas for new features, to documentation, to bug fixes. <a href="/get-involved/mailing-lists/">Get involved</a>.</p>
+
+<h2>Thanks</h2>
+Many thanks to the companies that have provided our open source project licenses to our team for Castle Project.
+
+<ul class="thanks-list">
+  <li><a href="http://www.jetbrains.com/teamcity/"><img src="/img/logo_teamcity.png" width="125" height="25"></a></li>
+  <li><a href="http://www.jetbrains.com/youtrack/"><img src="/img/logo_youtrack.png" width="125" height="25"></a></li>
+  <li><a href="http://www.jetbrains.com/resharper/"><img src="/img/logo_resharper.png" width="125" height="25"></a></li>
+  <li><a href="http://www.ncover.com/"><img src="/img/logo_ncover.png" width="103" height="26" style="margin-right: 15px;"></a></li>
+  <li><a href="http://www.ndepend.com/"><img src="/img/logo_ndepend.png" width="103" height="26"></a></li>
+</ul>
+
+<h2>News</h1>
+{% for post in site.posts limit:10 %}
+<div>
+  <h3>
+    <span style="float: right;">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h3>
+  <p>{{ post.content | strip_html | truncatewords:40 }} <a href="{{ post.url }}">Continue reading.</a></p>
+</div>
+{% endfor %}

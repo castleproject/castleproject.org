@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="post">
+
+  <div class="post-header">
+{% if page.logo_img %}
+    <img src="/img/{{ page.logo_img }}" style="float: right;">
+{% endif %}
+    <h1 class="post-title">{{ page.title }}</h1>
+  </div>
+
+  <article class="post-content">
+{{ content }}
+  </article>
+
+</div>

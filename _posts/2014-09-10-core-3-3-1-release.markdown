@@ -1,0 +1,16 @@
+---
+layout: post
+title: Castle Core 3.3.1 Release
+date: 2014-09-10 00:00:00
+author: jonorossi
+categories: news core
+---
+We've just released a minor non-breaking release of Castle Core that includes support for [Serilog][serilog]. Castle Core 3.3.1 is available on [GitHub][github-release] and on [NuGet][nuget-core]. The new NuGet package for this integration is `Castle.Core-Serilog`.
+
+There are no other changes in this release.
+
+This enhancement was contributed by Russell J Baker ([@ruba1987](https://github.com/ruba1987))
+
+[serilog]: http://serilog.net/
+[github-release]: https://github.com/castleproject/Core/releases/tag/v3.3.1
+[nuget-core]: http://www.nuget.org/packages/Castle.Core-Serilog/

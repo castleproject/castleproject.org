@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="Castle Project" href="{{ site.url }}/feed/">
+
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Architects+Daughter">
+    <link rel="stylesheet" type="text/css" href="/css/main.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1><a href="/">{{ site.title }}</a></h1>
+        <h2>Build your .NET projects on a rock solid foundation</h2>
+        <a href="https://github.com/castleproject" class="button button-github">
+          <small>Follow us on</small>
+          GitHub
+        </a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+
+{{ content }}
+
+        </section>
+
+        <aside id="sidebar">
+{% if page.github %}
+          <a href="https://github.com/castleproject/{{ page.github }}/releases" class="button button-download">
+            <small>Download {{ page.title }}</small>
+            GitHub (.zip)
+          </a>
+{% endif %}
+{% if page.sfnet %}
+          <a href="http://sourceforge.net/projects/castleproject/files/{{ page.sfnet }}/" class="button button-download">
+            <small>Download {{ page.title }}</small>
+            sf.net (.zip)
+          </a>
+{% endif %}
+{% if page.nuget %}
+          <a href="http://www.nuget.org/packages/{{ page.nuget }}" class="button button-download">
+            <small>Download {{ page.title }}</small>
+            NuGet
+          </a>
+{% endif %}
+
+          <p>
+            <ul>
+              <li><a href="/">Home</a></li>
+              <li><a href="/about/">About</a>
+                <ul>
+                  <li><a href="/about/history/">History</a></li>
+                  <li><a href="/about/mission/">Mission</a></li>
+                  <li><a href="/about/team/">Team</a></li>
+                </ul>
+              </li>
+              <li><a href="/download/">Download</a></li>
+              <li><a href="/get-involved/">Get Involved</a>
+                <ul>
+                  <li><a href="/get-involved/mailing-lists/">Help and Support</a></li>
+                </ul>
+              </li>
+              <li><a href="/projects/">Projects</a>
+                <ul>
+                  <li><a href="/projects/activerecord/">ActiveRecord</a></li>
+                  <li><a href="/projects/dynamicproxy/">DynamicProxy</a></li>
+                  <li><a href="/projects/monorail/">MonoRail</a></li>
+                  <li><a href="/projects/windsor/">Windsor</a></li>
+                </ul>
+              </li>
+              <li><a href="{{ "/feed/" | prepend: site.baseurl }}">RSS</a></li>
+            </ul>
+          </p>
+        </aside>
+      </div>
+    </div>
+    
+    <footer>
+      Copyright &copy; 2004-2014 Castle Project |
+      Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License Version 2.0</a>.<br>
+      Castle MonoRail 3.0 is released under the terms of the <a href="http://www.gnu.org/licenses/lgpl.html">GNU Lesser General Public License.</a><br>
+      <a href="https://github.com/jasonlong/architect-theme">architect-theme</a> is maintained by <a href="https://github.com/jasonlong">jasonlong</a>.
+    </footer>
+  </body>
+</html>

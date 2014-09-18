@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="post">
+
+  <div class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      {{ page.date | date: "%B %-d, %Y" }}
+      {% if page.author %}&mdash; <a href="https://github.com/{{ page.author }}"><img src="https://avatars.githubusercontent.com/{{ page.author }}?s=36" width="18" height="18" style="vertical-align: middle;" /> {{ page.author }}</a>{% endif %}
+    </p>
+  </div>
+
+  <article class="post-content">
+{{ content }}
+  </article>
+
+</div>
