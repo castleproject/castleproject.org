@@ -6,6 +6,7 @@ author: jonorossi
 categories: news core
 ---
 The last release of Castle Core had two more defects in the new Serilog integration:
+
 * [#69][github-core-69] was an omission where the Castle's logger name wasn't passed to Serilog.
 * [#70][github-core-70] was a defect that calling `Create(string name, LoggerLevel level)` had a side-effect of modifying the passed in `LoggerConfiguration`,
   this overload shouldn't have been implemented on this integration as the logger level should be configured via Serilog.
