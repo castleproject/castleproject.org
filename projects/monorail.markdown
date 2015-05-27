@@ -27,7 +27,7 @@ The goals/roadmap/value-proposition [were discussed][mr3-goals] in the past in o
 
 [Check out Hammett's blog for the latest news about the ongoing development][hammett-blog-mr3].
 
-[mr2-docs]: http://docs.castleproject.org/MonoRail.MainPage.ashx
+[mr2-docs]: https://github.com/castleproject/MonoRail/blob/master/MR2/docs/README.md
 [mr2-download]: http://sourceforge.net/projects/castleproject/files/MonoRail/
 [mr3-goals]: http://groups.google.com/group/castle-project-devel/browse_thread/thread/d8d3863f440c31eb/548bdfaaf8dd64a3?lnk=gst&amp;q=MR+proposition#548bdfaaf8dd64a3
 [hammett-blog-mr3]: http://hammett.castleproject.org/index.php/category/castle/monorail/

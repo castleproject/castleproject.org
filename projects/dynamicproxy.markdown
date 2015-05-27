@@ -21,4 +21,4 @@ For example, NHibernate, an object/relational mapper uses DynamicProxy to provid
 
 For more, [check out the documentation][docs].
 
-[docs]: http://docs.castleproject.org/Tools.DynamicProxy.ashx
+[docs]: https://github.com/castleproject/Core/blob/master/docs/README.md
