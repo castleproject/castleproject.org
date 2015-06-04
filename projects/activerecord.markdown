@@ -13,6 +13,6 @@ The **Castle ActiveRecord** project is an implementation of the [ActiveRecord pa
 
 [Check out the documentation][docs].
 
-[docs]: http://docs.castleproject.org/Active%20Record.MainPage.ashx
+[docs]: https://github.com/castleproject/ActiveRecord/blob/master/docs/README.md
 [wikipedia-ar-pattern]: http://en.wikipedia.org/wiki/Active_record
 [nhibernate]: http://www.nhibernate.org/
