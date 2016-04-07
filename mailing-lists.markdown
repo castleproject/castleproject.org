@@ -23,7 +23,7 @@ We have another mailing list specifically for discussions about new features, ne
 
 * [Castle Project Development mailing list][castle-devel-list] (on Google groups)
 
-[docs]: http://docs.castleproject.org/
+[docs]: https://github.com/castleproject/Home/blob/master/README.md
 [stackoverflow]: http://stackoverflow.com
 [castle-users-list]: http://groups.google.com/group/castle-project-users
 [castle-devel-list]: http://groups.google.com/group/castle-project-devel

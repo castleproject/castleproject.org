@@ -53,6 +53,6 @@ We have a [what's new page in the wiki][docs-whats-new], and as always, the pack
     Install-Package Castle.Core-NLog
 
 [blog-rc-post]: {% post_url 2012-07-07-windsor-3-1-rc-released %}
-[docs-whats-new]: http://docs.castleproject.org/Windsor.Whats-New-In-Windsor-31.ashx
+[docs-whats-new]: https://github.com/castleproject/Windsor/blob/master/docs/whats-new-3.1.md
 [sfnet-windsor]: http://sourceforge.net/projects/castleproject/files/Windsor/Castle.Windsor.3.1.0.zip/download
 [sfnet-core]: http://sourceforge.net/projects/castleproject/files/Core/Castle.Core.3.1.0.zip/download

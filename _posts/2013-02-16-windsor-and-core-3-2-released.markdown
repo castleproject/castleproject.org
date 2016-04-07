@@ -22,4 +22,4 @@ Obviously, Windsor being a community driven project, if someone wants to step in
 
 [nuget-windsor]: http://nuget.org/packages/Castle.Windsor
 [sfnet-windsor]: https://sourceforge.net/projects/castleproject/files/latest/download
-[docs-whats-new]: http://docs.castleproject.org/Windsor.Whats-New-In-Windsor-32.ashx
+[docs-whats-new]: https://github.com/castleproject/Windsor/blob/master/docs/whats-new-3.2.md

@@ -18,4 +18,4 @@ There are no recipes to join the project. Just subscribe to the mailing list and
 ## Where
 Castle development discussion takes place on the [devel mailing list](/get-involved/mailing-lists/). You do not need to subscribe to the list just to submit a patch or two, but if you want to be involved with Castle development on a regular basis, you should probably subscribe. It can be high-traffic, but threading tends to be fairly disciplined, so you can ignore conversations you are not interested in.
 
-[doc-submitfix]: http://docs.castleproject.org/How-to-submit-a-fix-to-any-Castle-Project.ashx
+[doc-submitfix]: https://github.com/castleproject/Home/blob/master/how-to-submit-a-fix.md

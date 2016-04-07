@@ -52,6 +52,6 @@ The release is considered stable and is being used in production, but please ins
     # Logging adapter for NLog:
     Install-Package Castle.Core-NLog -Pre
 
-[docs-whats-new]: http://docs.castleproject.org/Windsor.Whats-New-In-Windsor-31.ashx
+[docs-whats-new]: https://github.com/castleproject/Windsor/blob/master/docs/whats-new-3.1.md
 [sfnet-windsor]: http://sourceforge.net/projects/castleproject/files/Windsor/Castle.Windsor.3.1-RC.zip/download
 [sfnet-core]: http://sourceforge.net/projects/castleproject/files/Core/Castle.Core.3.1-RC.zip/download

@@ -13,5 +13,5 @@ The current version is 3.3.0, released in May 2014. Refer to the links on the ri
 
 To learn more about Windsor see its [documentation page][docs].
 
-[docs]: http://docs.castleproject.org/Windsor.MainPage.ashx
-[docs-ioc]: http://docs.castleproject.org/Windsor.Inversion-of-Control.ashx
+[docs]: https://github.com/castleproject/Windsor/blob/master/docs/README.md
+[docs-ioc]: https://github.com/castleproject/Windsor/blob/master/docs/ioc.md
