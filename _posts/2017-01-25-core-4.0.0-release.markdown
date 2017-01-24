@@ -1,0 +1,16 @@
+---
+layout: post
+title: Castle Core 4.0.0 Final Release
+date: 2017-01-25 02:30:00
+author: jonorossi
+categories: news core
+---
+Castle Core 4.0.0 final is now available. This release includes the following changes since 4.0.0-beta002:
+
+- Fix CustomAttributeInfo.FromExpression for VB.NET (@thomaslevesque, #223)
+- Update to NLog 4.4.1 and remove beta .NET Core support for NLog (#228)
+- Update to log4net 2.0.7 (#229)
+
+See [GitHub][github-release] for the release notes.
+
+[github-release]: https://github.com/castleproject/Core/releases/tag/v4.0.0
