@@ -3,36 +3,37 @@ layout: page
 title: Team
 permalink: /about/team/
 ---
+
 ## Committers
 *(ordered by the date when joined the project)*
 
 * hammett/Hamilton Verissimo
 * Henry Conceição
-* Kevin Williams
+* <span style="color: lightgray">Kevin Williams (emeritus)</span>
 * Craig Neuwirt
-* Gilles Bayon
-* Andrew Hallock
-* Jason Nelson
-* Dru Sellers
-* John Morales
-* CobraLord
-* Dan
-* Tatham Oddie
+* <span style="color: lightgray">Gilles Bayon (emeritus)</span>
+* <span style="color: lightgray">Andrew Hallock (emeritus)</span>
+* <span style="color: lightgray">Jason Nelson (emeritus)</span>
+* <span style="color: lightgray">Dru Sellers (emeritus)</span>
+* <span style="color: lightgray">John Morales (emeritus)</span>
+* <span style="color: lightgray">CobraLord (emeritus)</span>
+* <span style="color: lightgray">Dan (emeritus)</span>
+* <span style="color: lightgray">Tatham Oddie (emeritus)</span>
 * Fabio David Batista
-* Chad Humphries
+* <span style="color: lightgray">Chad Humphries (emeritus)</span>
 * Ayende Rahien
 * G. Richard Bellamy
 * Roelof Blom
-* Ahmed Ghandour
+* <span style="color: lightgray">Ahmed Ghandour (emeritus)</span>
 * Josh Robb
-* Ernst Naezer
-* Marc-Andre Cournoyer
+* <span style="color: lightgray">Ernst Naezer (emeritus)</span>
+* <span style="color: lightgray">Marc-Andre Cournoyer (emeritus)</span>
 * Fabian Schmied
 * Dave Godfrey
 * Markus Zywitza
-* Lee Henson
+* <span style="color: lightgray">Lee Henson (emeritus)</span>
 * Ken Egozi
-* Chris Ortman
+* <span style="color: lightgray">Chris Ortman (emeritus)</span>
 * Jonathon Rossi
 * Tuna Toksöz
 * Krzysztof Kozmic
@@ -45,10 +46,10 @@ permalink: /about/team/
 
 * hammett/Hamilton Verissimo (Chair)
 * Henry Conceição
-* Kevin Williams
+* <span style="color: lightgray">Kevin Williams (emeritus)</span>
 * Craig Neuwirt
-* Gilles Bayon
-* Chad Humphries
+* <span style="color: lightgray">Gilles Bayon (emeritus)</span>
+* <span style="color: lightgray">Chad Humphries (emeritus)</span>
 * Ayende Rahien
 * Fabio David Batista
 * Roelof Blom
@@ -57,20 +58,8 @@ permalink: /about/team/
 * Krzysztof Kozmic
 
 ## Emeritus
-*(no longer active committers)*
+When committers or PMC members who have contributed to the Castle Project become inactive, we want to make sure that we acknowledge their contributions. A committer or PMC member may be placed on emeritus status, this is an honorary position for those who were formerly active in the community but have retired from the Castle Project. These committers do not have commit access to the repositories and these PMC members do not having a binding PMC vote ([&sect;4.2 Emeritus Members](https://www.apache.org/foundation/bylaws.html)).
 
-* Gilles Bayon
-* Dan
-* Andrew Hallock
-* John Morales
-* CobraLord
-* Tatham Oddie
-* Ahmed Ghandour
-* Chad Humphries
-* Ernst Naezer
-* Marc-Andre Cournoyer
-* Dru Sellers
-* Kevin Williams
-* Jason Nelson
-* Chris Ortman
-* Lee Henson
+The decision to place a committer or PMC member on emeritus status is either by request, or by majority vote of the PMC. If you have not participated in code reviews or contributed to the Castle Project within the past six months an automatic recommendation for emeritus status may be put forward to the PMC.
+
+Our thanks to each of these people and their contributions to the long term success of the Castle Project.
