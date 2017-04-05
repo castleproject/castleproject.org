@@ -23,7 +23,7 @@ permalink: /about/team/
 * <span style="color: lightgray">Chad Humphries (emeritus)</span>
 * Ayende Rahien
 * G. Richard Bellamy
-* Roelof Blom
+* <span style="color: lightgray">Roelof Blom (emeritus)</span>
 * <span style="color: lightgray">Ahmed Ghandour (emeritus)</span>
 * Josh Robb
 * <span style="color: lightgray">Ernst Naezer (emeritus)</span>
@@ -37,7 +37,7 @@ permalink: /about/team/
 * Jonathon Rossi
 * Tuna Toksöz
 * Krzysztof Kozmic
-* Mauricio Scheffer
+* <span style="color: lightgray">Mauricio Scheffer (emeritus)</span>
 * John Simons
 * Henrik Feldt
 
@@ -52,7 +52,7 @@ permalink: /about/team/
 * <span style="color: lightgray">Chad Humphries (emeritus)</span>
 * Ayende Rahien
 * Fabio David Batista
-* Roelof Blom
+* <span style="color: lightgray">Roelof Blom (emeritus)</span>
 * Josh Robb
 * Jonathon Rossi
 * Krzysztof Kozmic
