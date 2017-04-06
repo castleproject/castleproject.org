@@ -7,10 +7,10 @@ permalink: /about/team/
 ## Committers
 *(ordered by the date when joined the project)*
 
-* hammett/Hamilton Verissimo
+* <span style="color: lightgray">hammett/Hamilton Verissimo (emeritus)</span>
 * Henry Conceição
 * <span style="color: lightgray">Kevin Williams (emeritus)</span>
-* Craig Neuwirt
+* <span style="color: lightgray">Craig Neuwirt (emeritus)</span>
 * <span style="color: lightgray">Gilles Bayon (emeritus)</span>
 * <span style="color: lightgray">Andrew Hallock (emeritus)</span>
 * <span style="color: lightgray">Jason Nelson (emeritus)</span>
@@ -32,7 +32,7 @@ permalink: /about/team/
 * Dave Godfrey
 * Markus Zywitza
 * <span style="color: lightgray">Lee Henson (emeritus)</span>
-* Ken Egozi
+* <span style="color: lightgray">Ken Egozi (emeritus)</span>
 * <span style="color: lightgray">Chris Ortman (emeritus)</span>
 * Jonathon Rossi
 * Tuna Toksöz
@@ -44,10 +44,10 @@ permalink: /about/team/
 ## PMC Members
 *(ordered by the date when joined the PMC)*
 
-* hammett/Hamilton Verissimo (Chair)
+* <span style="color: lightgray">hammett/Hamilton Verissimo (former Chair, emeritus)</span>
 * Henry Conceição
 * <span style="color: lightgray">Kevin Williams (emeritus)</span>
-* Craig Neuwirt
+* <span style="color: lightgray">Craig Neuwirt (emeritus)</span>
 * <span style="color: lightgray">Gilles Bayon (emeritus)</span>
 * <span style="color: lightgray">Chad Humphries (emeritus)</span>
 * Ayende Rahien
