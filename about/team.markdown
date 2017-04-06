@@ -8,7 +8,7 @@ permalink: /about/team/
 *(ordered by the date when joined the project)*
 
 * <span style="color: lightgray">hammett/Hamilton Verissimo (emeritus)</span>
-* Henry Conceição
+* <span style="color: lightgray">Henry Conceição (emeritus)</span>
 * <span style="color: lightgray">Kevin Williams (emeritus)</span>
 * <span style="color: lightgray">Craig Neuwirt (emeritus)</span>
 * <span style="color: lightgray">Gilles Bayon (emeritus)</span>
@@ -45,7 +45,7 @@ permalink: /about/team/
 *(ordered by the date when joined the PMC)*
 
 * <span style="color: lightgray">hammett/Hamilton Verissimo (former Chair, emeritus)</span>
-* Henry Conceição
+* <span style="color: lightgray">Henry Conceição (emeritus)</span>
 * <span style="color: lightgray">Kevin Williams (emeritus)</span>
 * <span style="color: lightgray">Craig Neuwirt (emeritus)</span>
 * <span style="color: lightgray">Gilles Bayon (emeritus)</span>
