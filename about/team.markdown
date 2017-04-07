@@ -28,7 +28,7 @@ permalink: /about/team/
 * Josh Robb
 * <span style="color: lightgray">Ernst Naezer (emeritus)</span>
 * <span style="color: lightgray">Marc-Andre Cournoyer (emeritus)</span>
-* Fabian Schmied
+* <span style="color: lightgray">Fabian Schmied (emeritus)</span>
 * Dave Godfrey
 * Markus Zywitza
 * <span style="color: lightgray">Lee Henson (emeritus)</span>
