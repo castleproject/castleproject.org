@@ -36,7 +36,7 @@ permalink: /about/team/
 * <span style="color: lightgray">Chris Ortman (emeritus)</span>
 * Jonathon Rossi
 * Tuna Toksöz
-* Krzysztof Kozmic
+* <span style="color: lightgray">Krzysztof Kozmic (emeritus)</span>
 * <span style="color: lightgray">Mauricio Scheffer (emeritus)</span>
 * John Simons
 * Henrik Feldt
@@ -55,7 +55,7 @@ permalink: /about/team/
 * <span style="color: lightgray">Roelof Blom (emeritus)</span>
 * Josh Robb
 * Jonathon Rossi
-* Krzysztof Kozmic
+* <span style="color: lightgray">Krzysztof Kozmic (emeritus)</span>
 
 ## Emeritus
 When committers or PMC members who have contributed to the Castle Project become inactive, we want to make sure that we acknowledge their contributions. A committer or PMC member may be placed on emeritus status, this is an honorary position for those who were formerly active in the community but have retired from the Castle Project. These committers do not have commit access to the repositories and these PMC members do not having a binding PMC vote ([&sect;4.2 Emeritus Members](https://www.apache.org/foundation/bylaws.html)).
