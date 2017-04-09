@@ -19,27 +19,27 @@ permalink: /about/team/
 * <span style="color: lightgray">CobraLord (emeritus)</span>
 * <span style="color: lightgray">Dan (emeritus)</span>
 * <span style="color: lightgray">Tatham Oddie (emeritus)</span>
-* Fabio David Batista
+* <span style="color: lightgray">Fabio David Batista (emeritus)</span>
 * <span style="color: lightgray">Chad Humphries (emeritus)</span>
-* Ayende Rahien
-* G. Richard Bellamy
+* <span style="color: lightgray">Ayende Rahien (emeritus)</span>
+* <span style="color: lightgray">G. Richard Bellamy (emeritus)</span>
 * <span style="color: lightgray">Roelof Blom (emeritus)</span>
 * <span style="color: lightgray">Ahmed Ghandour (emeritus)</span>
-* Josh Robb
+* <span style="color: lightgray">Josh Robb (emeritus)</span>
 * <span style="color: lightgray">Ernst Naezer (emeritus)</span>
 * <span style="color: lightgray">Marc-Andre Cournoyer (emeritus)</span>
 * <span style="color: lightgray">Fabian Schmied (emeritus)</span>
-* Dave Godfrey
-* Markus Zywitza
+* <span style="color: lightgray">Dave Godfrey (emeritus)</span>
+* <span style="color: lightgray">Markus Zywitza (emeritus)</span>
 * <span style="color: lightgray">Lee Henson (emeritus)</span>
 * <span style="color: lightgray">Ken Egozi (emeritus)</span>
 * <span style="color: lightgray">Chris Ortman (emeritus)</span>
 * Jonathon Rossi
-* Tuna Toksöz
+* <span style="color: lightgray">Tuna Toksöz (emeritus)</span>
 * <span style="color: lightgray">Krzysztof Kozmic (emeritus)</span>
 * <span style="color: lightgray">Mauricio Scheffer (emeritus)</span>
-* John Simons
-* Henrik Feldt
+* <span style="color: lightgray">John Simons (emeritus)</span>
+* <span style="color: lightgray">Henrik Feldt (emeritus)</span>
 
 ## PMC Members
 *(ordered by the date when joined the PMC)*
@@ -50,10 +50,10 @@ permalink: /about/team/
 * <span style="color: lightgray">Craig Neuwirt (emeritus)</span>
 * <span style="color: lightgray">Gilles Bayon (emeritus)</span>
 * <span style="color: lightgray">Chad Humphries (emeritus)</span>
-* Ayende Rahien
-* Fabio David Batista
+* <span style="color: lightgray">Ayende Rahien (emeritus)</span>
+* <span style="color: lightgray">Fabio David Batista (emeritus)</span>
 * <span style="color: lightgray">Roelof Blom (emeritus)</span>
-* Josh Robb
+* <span style="color: lightgray">Josh Robb (emeritus)</span>
 * Jonathon Rossi
 * <span style="color: lightgray">Krzysztof Kozmic (emeritus)</span>
 
