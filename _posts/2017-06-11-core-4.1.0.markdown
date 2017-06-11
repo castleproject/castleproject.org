@@ -1,0 +1,22 @@
+---
+layout: post
+title: Castle Core 4.1.0
+date: 2017-06-11 00:00:00
+author: jonorossi
+categories: news core
+---
+Castle Core 4.1.0 is now available. This release includes the following changes since 4.0.0:
+
+- Upgrade to log4net 2.0.8 (@fir3pho3nixx, #241)
+- New `ProxyUtil.IsAccessible` API to check if a method is accessible to DynamicProxyGenAssembly2 (Blair Conrad, #235)
+- Fix order of class proxy constructor arguments when using multiple mixins (@sebastienros, #230)
+- Fix dependency on `System.ComponentModel.TypeConverter` NuGet package version that does not exist (#239)
+- Fix `ParamArrayAttribute` not being replicated in proxy (@stakx, #121)
+- Fix `System.Net.Mail.SmtpClient` is obsolete on Mono warning (#254)
+
+And this release is now driven by the new .NET build tooling rather than a mix of both, and new CI automation with
+many thanks to @fir3pho3nixx.
+
+See [GitHub][github-release] for the release notes.
+
+[github-release]: https://github.com/castleproject/Core/releases/tag/v4.1.0
