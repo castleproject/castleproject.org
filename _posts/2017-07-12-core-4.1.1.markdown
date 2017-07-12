@@ -1,0 +1,16 @@
+---
+layout: post
+title: Castle Core 4.1.1
+date: 2017-07-12 00:00:00
+author: jonorossi
+categories: news core
+---
+Castle Core 4.1.1 is now available. This release includes the following changes:
+
+- Prevent member name collision when proxy implements same generic interface more than twice (@stakx, #88)
+- Fix incorrect replication (reversed order) of custom modifiers (modopts and modreqs) on the CLR, does not work yet on Mono (@stakx, #277)
+- Fix COM interface proxy error case throwing exceptions trying to release null pointer from QueryInterface (@stakx, #281)
+
+See [GitHub][github-release] for the release notes.
+
+[github-release]: https://github.com/castleproject/Core/releases/tag/v4.1.1

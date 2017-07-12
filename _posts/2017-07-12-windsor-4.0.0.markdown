@@ -1,0 +1,26 @@
+---
+layout: post
+title: Castle Windsor 4.0.0
+date: 2017-07-12 00:00:00
+author: jonorossi
+categories: news windsor
+---
+Castle Windsor 4.0.0 is now available. This release includes the following changes:
+
+Breaking Changes:
+- Remove .NET 3.5, .NET 4.0 and .NET 4.0 Client Profile support (@fir3pho3nixx, #173, #180, #177, #185)
+- Update Castle.Core dependency to 4.0.0 (@alinapopa, #235)
+
+Enhancements:
+- Add .NET Standard and .NET Core support (@alinapopa, @fir3pho3nixx, @jonorossi, #145)
+
+Bugfixes:
+- Fix IL interpretation of Ldarg_N from LOCAL 0 to LOCAL [0,1] in OpCodes so test FluentRegistrationTestCase.Can_publish_events_via_AllTypes could publish events again on Windows 10 Home (build 14393.693) VS 2015 Update 3 using .NET 4.x (@fir3pho3nixx, #168)
+- Fix race condition in PoolableLifestyleManager creating a pool (@krinmik, #72)
+- Fix race condition in WindsorContainer not generating unique names (#301)
+
+This release is driven by the new .NET SDK build tooling and new CI automation with many thanks to @fir3pho3nixx.
+
+See [GitHub][github-release] for the release notes.
+
+[github-release]: https://github.com/castleproject/Windsor/releases/tag/v4.0.0
