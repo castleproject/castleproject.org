@@ -34,12 +34,15 @@ permalink: /about/team/
 * <span style="color: lightgray">Lee Henson (emeritus)</span>
 * <span style="color: lightgray">Ken Egozi (emeritus)</span>
 * <span style="color: lightgray">Chris Ortman (emeritus)</span>
-* Jonathon Rossi
+* Jonathon Rossi (@jonorossi)
 * <span style="color: lightgray">Tuna Toksöz (emeritus)</span>
 * <span style="color: lightgray">Krzysztof Kozmic (emeritus)</span>
 * <span style="color: lightgray">Mauricio Scheffer (emeritus)</span>
 * <span style="color: lightgray">John Simons (emeritus)</span>
 * <span style="color: lightgray">Henrik Feldt (emeritus)</span>
+* Dominique Schuppli (@stakx)
+* Gavin van der Merwe (@fir3pho3nixx)
+
 
 ## PMC Members
 *(ordered by the date when joined the PMC)*
@@ -54,7 +57,7 @@ permalink: /about/team/
 * <span style="color: lightgray">Fabio David Batista (emeritus)</span>
 * <span style="color: lightgray">Roelof Blom (emeritus)</span>
 * <span style="color: lightgray">Josh Robb (emeritus)</span>
-* Jonathon Rossi
+* Jonathon Rossi (@jonorossi)
 * <span style="color: lightgray">Krzysztof Kozmic (emeritus)</span>
 
 ## Emeritus
