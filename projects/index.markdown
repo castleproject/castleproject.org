@@ -35,6 +35,9 @@ These are auxiliary tools and components that are commonly need by developers.
     <a href="https://github.com/castleproject/Core">Logging</a> provides an abstraction to the logging API of choice.
   </li>
   <li>
+    <a href="https://github.com/castleproject/NVelocity">NVelocity</a> is a port of the excellent Apache Jakarta Velocity project.
+  </li>
+  <li>
     <a href="https://github.com/castleproject/Castle.Transactions">Transaction</a> provides easy automatic transaction management.
   </li>
 </ul>
@@ -46,9 +49,6 @@ Castle has been creating software since the community began in 2004, although so
   <li>
     <a href="/projects/activerecord/"><img alt="ActiveRecord" src="/img/activerecord-block.png" /></a>
     <a href="/projects/activerecord/">ActiveRecord</a> is an implementation of the ActiveRecord pattern for .NET utilizing NHibernate.
-  </li>
-  <li>
-    <a href="https://github.com/castleproject/MonoRail/tree/master/MR2/NVelocity">NVelocity</a> is a port of the excellent Apache Jakarta Velocity project.</li>
   </li>
   <li>
     <a href="https://github.com/castleproject/MonoRail/tree/master/MR2/src/Castle.Components.Binder">Binder</a>
