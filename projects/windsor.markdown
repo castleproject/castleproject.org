@@ -9,7 +9,7 @@ nuget: Castle.Windsor
 ---
 Castle Windsor is a best of breed, mature [Inversion of Control container][docs-ioc] available for .NET and Silverlight.
 
-The current version is 4.0, released in July 2017. Refer to the links on the right to download it from GitHub or NuGet.
+The current version is 5.0, released in February 2019. Refer to the links on the right to download it from GitHub or NuGet.
 
 To learn more about Windsor see its [documentation page][docs].
 
