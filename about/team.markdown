@@ -41,7 +41,7 @@ permalink: /about/team/
 * <span style="color: lightgray">John Simons (emeritus)</span>
 * <span style="color: lightgray">Henrik Feldt (emeritus)</span>
 * Dominique Schuppli (@stakx)
-* Gavin van der Merwe (@fir3pho3nixx)
+* <span style="color: lightgray">Gavin van der Merwe (@fir3pho3nixx) (emeritus)</span>
 
 
 ## PMC Members
