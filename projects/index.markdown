@@ -29,7 +29,7 @@ These are auxiliary tools and components that are commonly need by developers.
     <a href="https://github.com/castleproject/Core">Core</a>
   </li>
   <li>
-    <a href="https://github.com/castleproject/Core/tree/master/src/Castle.Core/Components.DictionaryAdapter">DictionaryAdapter</a> provides on the fly generation of strongly typed wrappers around untyped dictionaries, or chunks of XML (like config file).
+    <a href="https://github.com/castleproject/DictionaryAdapter">DictionaryAdapter</a> provides on the fly generation of strongly typed wrappers around untyped dictionaries, or chunks of XML (like config file).
   </li>
   <li>
     <a href="https://github.com/castleproject/Core">Logging</a> provides an abstraction to the logging API of choice.
